@@ -5,13 +5,7 @@
 [![OpenCV](https://img.shields.io/badge/Library-OpenCV-5C3EE8.svg)](https://opencv.org/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)]()
 
-<p align="center">
-  
-  <img width="800" height="400" alt="demo" src="https://github.com/user-attachments/assets/8c09e542-ccf3-48a5-a693-5ed3a3a8c03b" />
-</p>
-<p align="center">
-  <em>Exemple d'utilisation de l'application : Ajout d'un bruit et application d'un filtre correctif (Originale à gauche, Traitée à droite).</em>
-</p>
+
 
 ## 📝 Description du Projet
 Cette application de bureau, dotée d'une interface graphique intuitive, permet d'appliquer et de visualiser en temps réel des dizaines d'algorithmes de traitement d'images. 
@@ -44,6 +38,15 @@ L'application couvre tous les domaines classiques de la vision par ordinateur :
   - `Scikit-Image`
   - `Matplotlib` (Génération des histogrammes)
   - `Pillow` (Gestion de l'affichage Tkinter)
+## 📸 Démonstration
+
+<p align="center">
+  
+  <img width="800" height="400" alt="demo" src="https://github.com/user-attachments/assets/8c09e542-ccf3-48a5-a693-5ed3a3a8c03b" />
+</p>
+<p align="center">
+  <em>Exemple d'utilisation de l'application : Ajout d'un bruit et application d'un filtre correctif (Originale à gauche, Traitée à droite).</em>
+</p>
 
 ## 🚀 Installation & Utilisation (Version Python)
 
@@ -62,3 +65,9 @@ pip install numpy opencv-python scipy matplotlib scikit-image Pillow
 python main.py
  ```
 4. Utilisez le menu Fichier > Ouvrir pour charger une image, puis testez les différents algorithmes via les menus déroulants !
+5. 
+## 👥 Auteurs
+**Oumniya Moutaouakil**
+- Master's Student in Advanced Machine Learning & Multimedia Intelligence.
+- GitHub: [@oumniya03](https://github.com/oumniya03)
+- Project: [Image_processing](https://github.com/oumniya03/image_processing.git)
