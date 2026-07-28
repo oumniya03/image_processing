@@ -57,7 +57,7 @@ L'application couvre tous les domaines classiques de la vision par ordinateur :
    ```
 2. Installez les dépendances requises :
    ```bash
-    pip install numpy opencv-python scipy matplotlib scikit-image Pillow
+   pip install numpy opencv-python scipy matplotlib scikit-image Pillow
     ```
 3. Lancez l'application :
 
