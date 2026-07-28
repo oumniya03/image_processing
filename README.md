@@ -1,3 +1,4 @@
+
 # 🖼️ Application Interactive de Traitement d'Images et Vision
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
@@ -5,7 +6,8 @@
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)]()
 
 <p align="center">
-  <img alt="Capture d'écran de l'application" src="demo.jpg" width="800" />
+  
+  <img width="800" height="400" alt="demo" src="https://github.com/user-attachments/assets/8c09e542-ccf3-48a5-a693-5ed3a3a8c03b" />
 </p>
 <p align="center">
   <em>Exemple d'utilisation de l'application : Ajout d'un bruit et application d'un filtre correctif (Originale à gauche, Traitée à droite).</em>
