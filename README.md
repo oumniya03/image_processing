@@ -57,15 +57,15 @@ L'application couvre tous les domaines classiques de la vision par ordinateur :
    ```
 2. Installez les dépendances requises :
  ```bash
-pip install numpy opencv-python scipy matplotlib scikit-image Pillow
+    pip install numpy opencv-python scipy matplotlib scikit-image Pillow
  ```
 3. Lancez l'application :
 
  ```bash
-python main.py
+    python main.py
  ```
 4. Utilisez le menu Fichier > Ouvrir pour charger une image, puis testez les différents algorithmes via les menus déroulants !
-5. 
+   
 ## 👥 Auteurs
 **Oumniya Moutaouakil**
 - Master's Student in Advanced Machine Learning & Multimedia Intelligence.
